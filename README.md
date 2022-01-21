@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nambour
-- 👀 I’m interested in hellow world
-- 🌱 I’m currently learning hellow world
-- 💞️ I’m looking to collaborate on hellow world
+- 👀 I’m interested in hello world
+- 🌱 I’m currently learning hello world
+- 💞️ I’m looking to collaborate on hello world
 - 📫 How to reach me 
 
 <!---
